@@ -24,3 +24,11 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+# My breakfast
+**It is a very sound one**
+- cold toast
+- tomato sauce
+- peanut butter
+- water with rich mineral substance from the dorm tape
+> sound breakfast and tranquil morning with a hard Info task.
